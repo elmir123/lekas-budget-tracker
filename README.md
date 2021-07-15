@@ -12,4 +12,8 @@
 The app will let you record your charges and expenses
 It has a helpfull graph to display your budget
 
-The important feature of this app is that it will keep record of your 
+The important feature of this app is that it will keep record of your records even if you are offline.
+Records added offline will be collected, the app will wait for the time that your device goes online. At that time it will automaticly sync itself with the server database and permenetly store your records. 
+
+## Dependencies
+```js
