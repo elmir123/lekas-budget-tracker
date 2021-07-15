@@ -8,6 +8,11 @@
 - npm install
 - npm start
 
+## Deployed
+Click here to open site:
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://lekas-budget-tracker.herokuapp.com/)
+
+
 ## Description
 The app will let you record your charges and expenses
 It has a helpfull graph to display your budget
