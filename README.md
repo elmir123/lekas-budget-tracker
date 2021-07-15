@@ -25,3 +25,13 @@ Records added offline will be collected, the app will wait for the time that you
     "morgan": "^1.9.1"
   }
 ```
+
+## Demo
+
+The following image demonstrates the web application's appearance:
+
+![Password Generater Step Form.](./public/images/budget-tracker.png)
+
+To view the working app use the link below:
+
+https://lekas-budget-tracker.herokuapp.com/
